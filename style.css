@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  /*font-size: 20px;*/
+  line-height: 2.3;
+  color: rgb(221, 221, 221);
+  position: relative;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  background-color: #4a4c50;
+  background-size: cover;
+  background-position: center;
+}
+.logo {
+  height: 2rem;
+  margin: 2rem;
+}
+.avatar-img {
+  height: 20rem;
+  display: flex;
+  justify-content: center;
+}
+.avatar {
+  border-radius: 50rem;
+}
+.name {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+}
+.linkedin {
+  margin-right: 30px;
+}
+.linkedin-icon {
+  height: 2rem;
+}
+.github {
+  margin-right: 30px;
+}
+.git-icon {
+  height: 2rem;
+}
+.instagram {
+  margin-right: 30px;
+}
+.notion {
+  margin-right: 30px;
+}
+.notion-icon {
+  height: 2rem;
+}
+.instagram-icon {
+  height: 2rem;
+}
+.mail-icon {
+  height: 2rem;
+}
